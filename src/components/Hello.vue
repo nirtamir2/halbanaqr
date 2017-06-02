@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1> hello world</h1>
-    <dropzone id="myVueDropzone" url="https://httpbin.org/post" v-on:vdropzone-success="showSuccess">
+    <dropzone id="myVueDropzone" url="https://httpbin.org/post" @vdropzone-success="showSuccess">
       <!-- Optional parameters if any! -->
       <input type="hidden" name="token" value="xxx">
     </dropzone>

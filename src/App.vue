@@ -16,8 +16,7 @@
             <v-btn icon light>
               <v-icon>more_vert</v-icon>
             </v-btn>
-            <img src="static/img/icons/iaf-logo/iaf-logo.svg" alt="iaf-logo" height="40px" width="40px"></img>
-
+            <img src="./assets/iaf-logo/iaf-logo.svg" alt="iaf-logo" height="40px" width="40px"></img>
           </v-toolbar>
         </template>
       </header>
