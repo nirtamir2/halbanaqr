@@ -5,7 +5,7 @@
         <template>
           <v-toolbar class="indigo" light>
             <v-toolbar-side-icon light></v-toolbar-side-icon>
-            <v-toolbar-title class="hidden-sm-and-down">Toolbar</v-toolbar-title>
+            <v-toolbar-title class="hidden-sm-and-down">QR Halbana</v-toolbar-title>
             <v-spacer></v-spacer>
             <v-btn icon light>
               <v-icon>account_circle</v-icon>
